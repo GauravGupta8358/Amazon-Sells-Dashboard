@@ -1,5 +1,5 @@
 # Amazon-Sells-Dashboard
-1. Project Title / Headline
+## 1. Project Title / Headline
 📦 Amazon Global Sales Dashboard: Yearly Sales Insights and Performance Metrics
 A dynamic, interactive Power BI report built to analyze Amazon’s global sales from 2012–2015—focused on segment-wise distribution, regional market performance, product profitability, and strategic KPIs
 2. Short Description / Purpose
